@@ -1,0 +1,8 @@
+.vscode
+*.code-workspace
+*.pyc
+data/*/*.jpg
+data/*/*.png
+data/*/*.JPEG
+data/*/*.webp
+*venv

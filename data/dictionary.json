@@ -1,0 +1,50 @@
+[
+  {
+    "mot": "ALGARADE",
+    "code": "subst. fém.",
+    "domaine": "SP. (cyclisme).",
+    "définition": "Attaque militaire brusque destinée à semer l'effroi :",
+    "exemple": "1. ... en pleine paix avec la plus vieille alliée de la France, nous l'attaquons, nous lui ravissons sa féconde province du Nil, sans déclaration de guerre, comme des Algériens qui, dans une de leurs algarades, se seraient emparés de Marseille et de la Provence.",
+    "auteur": "F.-R. de Chateaubriand",
+    "titre": "Mémoires d'Outre-Tombe, t.2",
+    "date": "1848",
+    "image": "<img src='20240208193343_ALGARADE.jpg'>",
+    "img_save_path": "data/images/20240208193343_ALGARADE.jpg"
+  },
+  {
+    "mot": "ÉPITHALAME",
+    "code": "subst. masc.",
+    "domaine": "LITT.",
+    "définition": "Poème ou chant composé à l'occasion d'un mariage pour célébrer les nouveaux mariés.",
+    "exemple": "Vous, Jacques Chardonne, auteur de « L'Épithalame » et du « Chant du Bienheureux », vous saviez exactement ce que vous vouliez de moi:",
+    "auteur": "Blanche",
+    "titre": "Modèles",
+    "date": "1928",
+    "image": "<img src='20240208193430_EPITHALAME.jpg'>",
+    "img_save_path": "data/images/20240208193430_EPITHALAME.jpg"
+  },
+  {
+    "mot": "OLOGRAPHE",
+    "code": "adj.",
+    "domaine": "DR.",
+    "définition": "Testament entièrement écrit de la main de son auteur, établi sans l'intervention d'un notaire.",
+    "exemple": "Le lendemain à neuf heures, il voulait anéantir ce testament olographe par un testament par-devant notaire, bien en règle et indiscutable",
+    "auteur": "Balzac",
+    "titre": "Cous. Pons",
+    "date": "1847",
+    "image": "<img src='20240208193439_OLOGRAPHE.jpg'>",
+    "img_save_path": "data/images/20240208193439_OLOGRAPHE.jpg"
+  },
+  {
+    "mot": "ÉPINOCHE",
+    "code": "subst. fém.",
+    "domaine": "ICHTYOL.",
+    "définition": "Petit poisson commun dans les eaux douces, saumâtres ou salées, possédant des épines dorsales et latérales mobiles et dont le ventre est muni de plaques osseuses tenant lieu d'écailles.",
+    "exemple": "Lorsque le premier rayon de la nageoire pectorale est épineux (...) il s'articule immédiatement avec l'os en ceinture. Cette articulation est remarquable dans (...) quelques « épinoches » qui peuvent à volonté tenir cet aiguillon couché contre le corps, ou perpendiculaire et fixement arrêté; ce qui leur sert d'un très-bon moyen de défense",
+    "auteur": "Cuvier",
+    "titre": "Anat. comp.,t. 1",
+    "date": "1805",
+    "image": "<img src='20240208193446_EPINOCHE.jpg'>",
+    "img_save_path": "data/images/20240208193446_EPINOCHE.jpg"
+  }
+]
