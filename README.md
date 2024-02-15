@@ -1,10 +1,10 @@
-# Mots nouveaux 🇫🇷
+# FRAnki 🇫🇷📝
 
-Learn the meaning of unknown french words you have encountered!
+Learn the meaning of unknown **FR**ench words you have encountered with **Anki**!
 
 ## Description
 
-While reading french, you may be faced with new words (mots nouveaux) which you do not know. It happens to native speakers as well and even though one can usually infer the meaning of a word thanks to the context, it slows down the reading and may cause misunderstanding.
+While reading french, you may be faced with new words which you do not know. It happens to native speakers as well and even though one can usually infer the meaning of a word thanks to the context, it slows down the reading and may cause misunderstanding.
 
 The goal of this project is to automatically fetch for every one of these words a definition, example and illustration image, then to transform this data in Anki flashcards and gather them in an Anki deck for further learning. You can then import the deck to your account and study it on the mobile app!
 
